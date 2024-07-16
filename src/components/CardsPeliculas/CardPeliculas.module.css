@@ -1,0 +1,32 @@
+.containerCard{
+    position: relative;
+    width: min-content;
+    height: min-content;
+    cursor: pointer;
+}
+
+.imgPortada{
+    width: 250px;
+    height: 350px;
+    transition: all 0.5s;
+}
+
+.imgPortada:hover{
+    box-shadow: 0 0 20px 10px #434cd1;
+    scale: 1.3;
+}
+
+
+.containerInfo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: #fff;
+    height: min-content;
+}
+
+.containerInfo span{
+    font-size: 20px;
+    font-weight: 700;
+}

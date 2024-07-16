@@ -1,12 +1,9 @@
 import styles from './Banner.module.css'
 
-function Banner ({foto, portada, titulo, descipcion}) {
-    return(
-        <>
-            <section className={styles.containerBanner}>
-                
-            </section>
-        </>
+function Banner({ foto, portada, titulo, descripcion, anio }) {
+
+    return (
+        <p>Hola desde banner</p>
     )
 }
 

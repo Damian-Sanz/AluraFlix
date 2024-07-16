@@ -8,6 +8,8 @@
     align-items: center;
     padding: 3em;
     box-sizing: border-box;
+    position: fixed;
+    z-index: 999;
 }
 
 .logoMasBusqueda {

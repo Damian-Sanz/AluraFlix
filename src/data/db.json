@@ -1,0 +1,257 @@
+{
+        "peliculas" : [
+            {
+              "id": 1,
+              "titulo": "Dune: Part Two",
+              "anio": 2024,
+              "descripcion": "En 'Dune: Part Two', Paul Atreides continúa su épica aventura en el desértico planeta Arrakis. Mientras busca vengar la traición de su familia y proteger el destino del universo, Paul enfrenta desafíos inimaginables y forma alianzas cruciales con los Fremen. La historia profundiza en las intrigas políticas, las batallas titánicas y los conflictos internos de Paul mientras lucha por aceptar su destino como el Mesías del desierto. La película presenta espectaculares efectos visuales y una narrativa rica en detalles que explora temas de poder, sacrificio y supervivencia en un entorno hostil.",
+              "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwT0DaoARnqBmU37HoRe16V7n76zTmR-TAGQ&s",
+              "foto": "https://ca-times.brightspotcdn.com/dims4/default/06f0f9b/2147483647/strip/true/crop/6000x4000+0+0/resize/2400x1600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2F9f%2F581d95824ebd98a8314a8f35c426%2Frev-1-dun2-38301r-high-res-jpeg.jpeg",
+              "genero": "Ciencia Ficción"
+            },
+            {
+              "id": 2,
+              "titulo": "Beyond the Spider-Verse",
+              "anio": 2024,
+              "descripcion": "Miles Morales regresa en 'Spider-Man: Beyond the Spider-Verse', una emocionante aventura que lo lleva a través de múltiples dimensiones. Mientras se enfrenta a una nueva amenaza interdimensional, Miles debe unir fuerzas con otros Spider-People para salvar sus mundos. La película explora temas de identidad, responsabilidad y heroísmo, ofreciendo deslumbrantes secuencias de animación y una narrativa emocionalmente resonante. Con personajes queridos y nuevos aliados, esta entrega lleva la saga de Spider-Man a nuevas alturas, consolidando a Miles como uno de los héroes más icónicos del multiverso.",
+              "portada": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/715b5211-681f-47a4-9d2a-31702395ee30/dfzl2mb-80362770-77f3-4b95-b6eb-08a6b437003b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxNWI1MjExLTY4MWYtNDdhNC05ZDJhLTMxNzAyMzk1ZWUzMFwvZGZ6bDJtYi04MDM2Mjc3MC03N2YzLTRiOTUtYjZlYi0wOGE2YjQzNzAwM2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.07T1KIXHRDlbqopZutK5ibIIh_64Os769C7wpgAkZsc",
+              "foto": "https://ap-cdn.sfo3.cdn.digitaloceanspaces.com/uploads/2023/06/spider-man-beyond-the-spider-verse-fecha-reparto.jpg",
+              "genero": "Acción"
+            },
+            {
+              "id": 3,
+              "titulo": "The Marvels",
+              "anio": 2024,
+              "descripcion": "En 'The Marvels', Captain Marvel, Ms. Marvel y Monica Rambeau unen fuerzas para enfrentar una amenaza cósmica que pone en peligro el universo. La película explora las dinámicas entre los tres héroes mientras descubren cómo sus poderes están misteriosamente entrelazados. A medida que luchan contra enemigos poderosos y enfrentan desafíos personales, las Marvels deben aprender a confiar entre sí y trabajar en equipo para salvar el día. Con espectaculares secuencias de acción y una trama llena de giros sorprendentes, 'The Marvels' es una emocionante adición al Universo Cinematográfico de Marvel.",
+              "portada": "https://www.pantalla90.es/wp-content/uploads/2023/11/nuevo-poster-de-the-marvels-original.jpg",
+              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsaEvd7tYU8lg7UZsvOjjrdhGOFGh0Jk4wA&s",
+              "genero": "Acción, Ciencia Ficción"
+            },
+            {
+              "id": 4,
+              "titulo": "Avatar",
+              "anio": 2024,
+              "descripcion": "En 'Avatar', Jake Sully y Neytiri continúan explorando los misterios de Pandora mientras enfrentan nuevas amenazas que ponen en peligro la armonía del planeta. A medida que descubren nuevas regiones y se encuentran con diferentes clanes Na'vi, deben unir fuerzas para proteger su hogar de una inminente invasión. La película presenta impresionantes efectos visuales y profundiza en la rica mitología de Pandora, explorando temas de unidad, supervivencia y la conexión entre todas las formas de vida. 'Avatar 3' promete ser una experiencia cinematográfica épica y visualmente deslumbrante.",
+              "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TxZ7PqP-Im8Bv0B8JEkcO7Sh2mrjz6OFeQ&s",
+              "foto": "https://i.blogs.es/531940/edhbabdegbcurd5az4s7x2rnci/1366_2000.jpeg",
+              "genero": "Aventura, Ciencia Ficción"
+            },
+            {
+              "id": 5,
+              "titulo": "Dead Reckoning",
+              "anio": 2024,
+              "descripcion": "Ethan Hunt regresa en 'Mission: Impossible - Dead Reckoning Part Two', enfrentando su misión más peligrosa hasta la fecha. Con el destino del mundo en juego, Ethan y su equipo deben desmantelar una organización terrorista que amenaza con desatar el caos global. A medida que la tensión aumenta, Ethan se encuentra en una carrera contrarreloj, enfrentando traiciones y peligros inimaginables. Con espectaculares escenas de acción y una trama llena de giros y sorpresas, esta entrega promete mantener a los espectadores al borde de sus asientos, consolidando a Ethan Hunt como uno de los héroes de acción más icónicos del cine.",
+              "portada": "https://m.media-amazon.com/images/I/61A9pmEjK2L.jpg",
+              "foto": "https://cdn.atomix.vg/wp-content/uploads/2023/07/mission.jpg",
+              "genero": "Acción, Suspenso"
+            },
+            {
+              "id": 6,
+              "titulo": "Guardians of the Galaxy 3",
+              "anio": 2024,
+              "descripcion": "Los Guardianes de la Galaxia regresan en 'Guardians of the Galaxy Vol. 3', enfrentándose a una nueva amenaza cósmica que pone en peligro la galaxia. Peter Quill, Rocket, Groot, Drax y Gamora deben unir fuerzas una vez más para salvar el universo, enfrentando desafíos personales y enemigos poderosos en el camino. La película combina acción trepidante, humor característico y momentos emotivos, mientras los Guardianes descubren secretos del pasado y fortalecen sus lazos como familia. Con una banda sonora épica y efectos visuales impresionantes, esta entrega es una celebración del espíritu aventurero y rebelde de los Guardianes.",
+              "portada": "https://m.media-amazon.com/images/I/71OLMNKaKEL.jpg",
+              "foto": "https://sm.ign.com/ign_latam/news/g/guardians-/guardians-of-the-galaxy-3-james-gunn-confirms-number-of-post_92kf.jpg",
+              "genero": "Ciencia Ficción"
+            },
+            {
+              "id": 7,
+              "titulo": "Chapter 5",
+              "anio": 2024,
+              "descripcion": "En 'John Wick: Chapter 5', el legendario asesino a sueldo John Wick se enfrenta a la implacable persecución de la Alta Mesa. Con un precio por su cabeza, John debe emplear todas sus habilidades y recursos para sobrevivir y derrotar a sus enemigos. La película lleva la acción a nuevos niveles, con secuencias de combate coreografiadas de manera impresionante y una narrativa que profundiza en el oscuro mundo del hampa. A medida que John lucha por su libertad y venganza, se enfrenta a antiguos aliados y nuevos adversarios, en una batalla épica que determinará su destino.",
+              "portada": "https://i.pinimg.com/736x/24/83/62/248362b83090e77d104dc9d0b98a0e58.jpg",
+              "foto": "https://hips.hearstapps.com/hmg-prod/images/john-wick-4-1666613955.jpg",
+              "genero": "Acción"
+            },
+            {
+              "id": 8,
+              "titulo": "Fast & Furious X",
+              "anio": 2024,
+              "descripcion": "Dom Toretto y su equipo regresan en 'Fast & Furious X', enfrentándose a su mayor desafío hasta la fecha. En una misión que los lleva a través de múltiples continentes, deben detener una conspiración global que amenaza con desestabilizar el mundo. Con impresionantes escenas de acción, persecuciones a alta velocidad y espectaculares acrobacias, esta entrega combina emoción, lealtad y familia. A medida que el equipo se enfrenta a viejos enemigos y nuevos peligros, descubren la importancia de la unidad y el sacrificio. 'Fast & Furious 11' promete ser una montaña rusa de adrenalina y emoción.",
+              "portada": "https://www.lahiguera.net/cinemania/pelicula/10603/fast_&_furious_x-cartel-11010.jpg",
+              "foto": "https://hips.hearstapps.com/hmg-prod/images/fast-and-furious-x-final-explicado-escena-poscreditos-gal-gadot-the-rock-64674147aa6d8.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+              "genero": "Acción"
+            },
+            {
+              "id": 9,
+              "titulo": "The Batman: Part II",
+              "anio": 2024,
+              "descripcion": "Bruce Wayne regresa en 'The Batman: Part II', continuando su cruzada contra el crimen en Gotham City. Mientras enfrenta a nuevos y viejos enemigos, Bruce debe lidiar con sus propios demonios internos y la creciente desconfianza de la ciudad que juró proteger. La película profundiza en la psique de Batman, explorando su lucha por mantener el equilibrio entre su vida como el Caballero Oscuro y su identidad como Bruce Wayne. Con una narrativa oscura y atmosférica, impresionantes secuencias de acción y un enfoque en el desarrollo de personajes, esta entrega promete ser una experiencia cinematográfica intensa y cautivadora.",
+              "portada": "https://i.pinimg.com/736x/f1/b9/82/f1b9822783c8971897156580d3e7f6b2.jpg",
+              "foto": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/batman-3048444.jpg?tf=3840x",
+              "genero": "Drama"
+            },
+            {
+              "id": 10,
+              "titulo": "The Secrets of Dumbledore",
+              "anio": 2024,
+              "descripcion": "En 'Fantastic Beasts: The Secrets of Dumbledore', Newt Scamander y sus aliados se embarcan en una misión para desentrañar los secretos oscuros del pasado de Albus Dumbledore. La película lleva a los espectadores a través de mágicas y peligrosas aventuras, enfrentando a Grindelwald y su creciente poder. A medida que descubren verdades ocultas y forjan alianzas inesperadas, los personajes deben enfrentarse a sus propios miedos y dudas. Con impresionantes efectos visuales, una narrativa rica en detalles y una exploración profunda de la mitología del mundo mágico, esta entrega es una emocionante adición a la saga de 'Fantastic Beasts'.",
+              "portada": "https://moviepostermexico.com/cdn/shop/products/fantastic_beasts_the_secrets_of_dumbledore_ver3_xxlg_1200x1200.jpg?v=1650479836",
+              "foto": "https://hips.hearstapps.com/hmg-prod/images/dan-fogler-jessica-williams-eddie-redmayne-callum-turner-fantastic-beasts-the-secrets-of-dumbledore-1649065100.jpeg?crop=0.733xw:1.00xh;0.111xw,0&resize=1200:*",
+              "genero": "Aventura"
+            },
+            {
+              "id": 11,
+              "titulo": "Wakanda Forever",
+              "anio": 2022,
+              "descripcion": "En 'Black Panther: Wakanda Forever', el reino de Wakanda enfrenta una nueva amenaza mientras sus líderes luchan por proteger su nación y honrar el legado del rey T'Challa. La película explora la resiliencia y unidad del pueblo wakandiano, presentando a nuevos personajes y revelando secretos del pasado. Con espectaculares escenas de acción y una profunda narrativa emocional, 'Wakanda Forever' celebra la cultura y el espíritu de Wakanda. A medida que enfrentan desafíos internos y externos, los personajes deben unirse para salvaguardar su hogar y preservar la paz en el mundo.",
+              "portada": "https://moviepostermexico.com/cdn/shop/products/black_panther_wakanda_forever_ver2_xxlg_1024x1024@2x.jpg?v=1667337530",
+              "foto": "https://media.gq.com.mx/photos/62e3f94c5a8c1e60ded0d906/16:9/w_2560%2Cc_limit/michael%2520b%2520jordan.jpg",
+              "genero": "Acción, Aventura"
+            },
+            {
+              "id": 12,
+              "titulo": "No Time to Die",
+              "anio": 2021,
+              "descripcion": "En 'No Time to Die', James Bond ha dejado el servicio activo y disfruta de una vida tranquila en Jamaica. Sin embargo, su paz se ve interrumpida cuando Felix Leiter, un viejo amigo de la CIA, le pide ayuda para rescatar a un científico secuestrado. La misión se vuelve más peligrosa de lo esperado, llevando a Bond a enfrentar a un misterioso villano armado con una nueva y peligrosa tecnología. La película ofrece emocionantes escenas de acción, intriga y el característico estilo de Bond, mientras explora temas de lealtad, amor y sacrificio en la última aventura de Daniel Craig como el icónico agente 007.",
+              "portada": "https://static.wixstatic.com/media/d56791_12d4a7842ae8451eb084879d3855ba59~mv2.jpeg/v1/fill/w_691,h_1024,al_c,q_85,enc_auto/d56791_12d4a7842ae8451eb084879d3855ba59~mv2.jpeg",
+              "foto": "https://dims.apnews.com/dims4/default/6e8053d/2147483647/strip/true/crop/2770x1867+0+0/resize/599x404!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F70a22332bfe843b993914554fe32d6cb%2F2770.jpeg",
+              "genero": "Acción, Suspenso"
+            },
+            {
+              "id": 13,
+              "titulo": "Spider-Man: No Way Home",
+              "anio": 2021,
+              "descripcion": "En 'Spider-Man: No Way Home', Peter Parker enfrenta las consecuencias de que su identidad como Spider-Man sea revelada al mundo. Desesperado por encontrar una solución, Peter recurre al Doctor Strange, quien intenta un hechizo que sale mal, abriendo las puertas al multiverso. Ahora, Peter debe enfrentarse a villanos de otros universos mientras busca restablecer el orden y proteger a sus seres queridos. La película ofrece emocionantes escenas de acción, momentos emotivos y sorprendentes apariciones de personajes queridos. Con una trama llena de giros y sorpresas, 'No Way Home' redefine el concepto de superhéroes y multiverso.",
+              "portada": "https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg",
+              "foto": "https://sm.ign.com/t/ign_latam/news/s/sam-raimi-/sam-raimi-reveals-his-feelings-after-watching-spider-man-no_tyr8.1280.jpg",
+              "genero": "Acción, Ciencia Ficción"
+            },
+            {
+              "id": 14,
+              "titulo": "Dune",
+              "anio": 2021,
+              "descripcion": "La adaptación cinematográfica de la aclamada novela de Frank Herbert, 'Dune', sigue la historia de Paul Atreides, un joven brillante y talentoso que debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo. Mientras fuerzas malévolas se enfrentan en una lucha por el control del suministro exclusivo del recurso más valioso del planeta, la especia melange, solo aquellos que puedan conquistar su propio miedo sobrevivirán. Con impresionantes efectos visuales, una narrativa épica y un elenco estelar, 'Dune' es una inmersiva experiencia cinematográfica que explora temas de poder, traición y destino.",
+              "portada": "https://www.lahiguera.net/cinemania/pelicula/9517/dune-cartel-10031.jpg",
+              "foto": "https://media.gq.com.mx/photos/6216b777343bc6058cdec3f6/16:9/w_2560%2Cc_limit/Dune-GQ2.jpg",
+              "genero": "Ciencia Ficción"
+            },
+            {
+              "id": 15,
+              "titulo": "The Suicide Squad",
+              "anio": 2021,
+              "descripcion": "En 'The Suicide Squad', un grupo de supervillanos encarcelados se une a una peligrosa misión bajo la supervisión de Amanda Waller. Esta vez, el equipo es enviado a la remota isla de Corto Maltese para destruir un laboratorio nazi y enfrentarse a una amenaza alienígena conocida como Starro. La película combina acción desenfrenada, humor negro y personajes memorables, explorando las dinámicas entre estos villanos mientras luchan por sobrevivir. Con giros inesperados, escenas de combate impresionantes y un tono irreverente, 'The Suicide Squad' ofrece una experiencia cinematográfica única y entretenida.",
+              "portada": "https://static.wikia.nocookie.net/dcextendeduniverse/images/3/3d/Suicide_Squad_-_Poster_WHE.png/revision/latest?cb=20160618195341&path-prefix=es",
+              "foto": "https://img.europapress.es/fotoweb/fotonoticia_20160401132548_1200.jpg",
+              "genero": "Comedia"
+            },
+            {
+              "id": 16,
+              "titulo": "The Matrix Resurrections",
+              "anio": 2021,
+              "descripcion": "En 'The Matrix Resurrections', Neo regresa a la Matrix, donde enfrenta nuevos desafíos y antiguos enemigos. Con la ayuda de aliados como Trinity y Morpheus, Neo debe descubrir la verdad detrás de su resurrección y luchar contra una amenaza que pone en peligro tanto el mundo real como el virtual. La película presenta impresionantes secuencias de acción, efectos visuales innovadores y una trama que profundiza en los temas filosóficos y tecnológicos de la serie. 'Resurrections' ofrece una nueva perspectiva sobre la lucha por la libertad y la realidad, consolidando su lugar en la legendaria franquicia de 'The Matrix'.",
+              "portada": "https://m.media-amazon.com/images/I/71nI5gwKm1L._AC_UF894,1000_QL80_.jpg",
+              "foto": "https://i.blogs.es/00bae3/matrixposters.0/1366_2000.jpeg",
+              "genero": "Ciencia Ficción"
+            },
+            {
+              "id": 17,
+              "titulo": "Shang-Chi",
+              "anio": 2021,
+              "descripcion": "En 'Shang-Chi and the Legend of the Ten Rings', Shang-Chi debe enfrentar el pasado que pensó haber dejado atrás cuando es arrastrado a la red de la misteriosa organización de los Diez Anillos. La película combina artes marciales con elementos de fantasía, explorando la identidad y el legado del protagonista. A medida que Shang-Chi descubre secretos familiares y enfrenta a poderosos enemigos, debe aceptar su verdadero destino como un héroe. Con impresionantes secuencias de acción, una narrativa emocionalmente rica y una celebración de la cultura asiática, 'Shang-Chi' es una emocionante adición al Universo Cinematográfico de Marvel.",
+              "portada": "https://moviepostermexico.com/cdn/shop/products/shangchi_and_the_legend_of_the_ten_rings_xxlg_4d6a5a65-8f3d-4765-8c0f-3238c5650922_1024x1024@2x.jpg?v=1628221418",
+              "foto": "https://www.smashmexico.com.mx/wp-content/uploads/2021/09/shang-chi-and-the-legends-of-the-ten-rings-pelicula-explicacion-final-escenas-postcreditos-anillos.jpg",
+              "genero": "Acción"
+            },
+            {
+              "id": 18,
+              "titulo": "The Green Knight",
+              "anio": 2021,
+              "descripcion": "En 'The Green Knight', Sir Gawain, el sobrino imprudente e impetuoso del Rey Arturo, emprende una audaz búsqueda para enfrentarse al enigmático Green Knight, un gigante esmeralda y probador de hombres. La película es una adaptación visualmente deslumbrante y profundamente atmosférica del poema medieval, explorando temas de honor, valentía y el destino. A medida que Gawain enfrenta desafíos sobrenaturales y tentaciones, su viaje se convierte en una reflexión sobre la naturaleza de la caballería y el sacrificio. Con una cinematografía impresionante y una narrativa envolvente, 'The Green Knight' es una experiencia cinematográfica única y cautivadora.",
+              "portada": "https://mx.web.img2.acsta.net/pictures/21/06/15/19/15/0165525.jpg",
+              "foto": "https://www.otroscines.com/images/fotos/la-leyenda-del-caballero-verde-adentro.jpeg",
+              "genero": "Drama"
+            },
+            {
+              "id": 19,
+              "titulo": "A Quiet Place Part II",
+              "anio": 2021,
+              "descripcion": "En 'A Quiet Place Part II', la familia Abbott continúa su lucha por sobrevivir en un mundo post-apocalíptico donde cualquier sonido puede atraer a mortales criaturas alienígenas. Después de los eventos de la primera película, Evelyn y sus hijos deben enfrentarse a los horrores del mundo exterior mientras buscan nuevos refugios y aliados. La película mantiene la tensión y el suspense, con momentos de intenso silencio y peligro inminente. A medida que descubren más sobre las criaturas y su origen, los personajes deben tomar decisiones cruciales para protegerse mutuamente y garantizar su supervivencia.",
+              "portada": "https://play-lh.googleusercontent.com/xTBNmMn55dI_eZWekdY4WA--G4ItQAO6MY5Apzn0g0Yd6wmot25I-Bj2_yZni-yf-yMW6KbQczR_l4Oke1xO",
+              "foto": "https://i.ytimg.com/vi/v1cCr1t9jDI/maxresdefault.jpg",
+              "genero": "Ciencia Ficción"
+            },
+            {
+              "id": 20,
+              "titulo": "Cruella",
+              "anio": 2021,
+              "descripcion": "En 'Cruella', se revela la historia de origen de una de las villanas más icónicas de Disney. Estella, una joven con un talento innato para la moda y una mente rebelde, se embarca en un viaje para convertirse en la legendaria Cruella de Vil. La película sigue su transformación, desde su lucha en las calles de Londres hasta su ascenso en el mundo de la moda, donde se enfrenta a la Baronesa von Hellman, una influyente y despiadada figura de la alta costura. Con un estilo visual impresionante, actuaciones memorables y una banda sonora vibrante, 'Cruella' ofrece una perspectiva fresca y cautivadora sobre el origen del personaje.",
+              "portada": "https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg",
+              "foto": "https://media.vogue.mx/photos/604fbc2ceb2bb49b3a8c96cf/master/pass/Cruella-Emma-Stone-Disney.jpg",
+              "genero": "Comedia, Crimen"
+            },
+            {
+              "id": 21,
+              "titulo": "Soul",
+              "anio": 2020,
+              "descripcion": "En 'Soul', Joe Gardner, un profesor de música de secundaria, finalmente tiene la oportunidad de cumplir su sueño de convertirse en músico de jazz profesional. Sin embargo, un accidente inesperado lo transporta al mundo espiritual, donde debe reflexionar sobre su vida y su pasión por la música. Acompañado por una joven alma llamada 22, Joe emprende un viaje introspectivo para redescubrir el verdadero significado de la vida y la importancia de seguir sus sueños. Con una animación deslumbrante, una banda sonora emotiva y una narrativa profunda, 'Soul' es una celebración de la vida, la música y el propósito.",
+              "portada": "https://es.web.img3.acsta.net/pictures/19/11/11/16/45/5284362.jpg",
+              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToX_fJnMoXsFmzbS8rLt-gQoXlPVDAhua2jg&s",
+              "genero": "Animación"
+            },
+            {
+              "id": 22,
+              "titulo": "Tenet",
+              "anio": 2020,
+              "descripcion": "En 'Tenet', un agente secreto conocido como el Protagonista se embarca en una misión para prevenir la Tercera Guerra Mundial utilizando una tecnología que permite invertir el flujo del tiempo. A medida que profundiza en la misión, descubre una red de espionaje internacional y traiciones que desafían la lógica temporal. Con la ayuda de aliados como Neil y Kat, el Protagonista debe enfrentar a un villano que amenaza con destruir el mundo utilizando esta tecnología. La película combina acción trepidante, efectos visuales innovadores y una narrativa compleja que explora conceptos de tiempo y destino, manteniendo a los espectadores al borde de sus asientos.",
+              "portada": "https://hips.hearstapps.com/hmg-prod/images/poster-tenet-1593638789.jpeg",
+              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgaLQIxjeQh0sagzUtGD-6mRPWsnb7n_znw&s",
+              "genero": "Acción"
+            },
+            {
+              "id": 23,
+              "titulo": "Wonder Woman 1984",
+              "anio": 2020,
+              "descripcion": "En 'Wonder Woman 1984', Diana Prince enfrenta nuevos enemigos en la década de los 80. Mientras trabaja en el Museo Smithsonian, se reencuentra con su antiguo amor, Steve Trevor, misteriosamente resucitado. Juntos, deben detener a Maxwell Lord, un empresario megalómano, y a Barbara Minerva, una colega de Diana que se transforma en la poderosa y peligrosa Cheetah. La película explora temas de deseo, poder y sacrificio, mientras Wonder Woman lucha por salvar al mundo y proteger a quienes ama. Con emocionantes secuencias de acción, efectos visuales impresionantes y una narrativa emotiva, 'Wonder Woman 1984' es una épica aventura superheroica.",
+              "portada": "https://es.web.img3.acsta.net/pictures/20/12/23/12/39/0017180.jpg",
+              "foto": "https://i.ytimg.com/vi/2F2nsGGyTas/maxresdefault.jpg",
+              "genero": "Acción"
+            },
+            {
+              "id": 24,
+              "titulo": "Mank",
+              "anio": 2020,
+              "descripcion": "En 'Mank', el director David Fincher nos lleva a la década de 1930 en Hollywood, explorando la tumultuosa creación del guion de 'Citizen Kane' a través de los ojos de su coautor, Herman J. Mankiewicz. La película ofrece una mirada detrás de las escenas del sistema de estudios de Hollywood y los desafíos creativos y personales que Mank enfrenta mientras lucha por escribir su obra maestra. Con una cinematografía en blanco y negro, una narrativa no lineal y actuaciones magistrales, 'Mank' captura la esencia de una era dorada del cine y la complejidad de uno de sus personajes más fascinantes.",
+              "portada": "https://hips.hearstapps.com/hmg-prod/images/mank-netflix-cartel-fotogramas-1603288670.jpg",
+              "foto": "https://i.blogs.es/175c62/escena-mank/450_1000.jpeg",
+              "genero": "Drama"
+            },
+            {
+              "id": 25,
+              "titulo": "The Trial of the Chicago 7",
+              "anio": 2020,
+              "descripcion": "En 'The Trial of the Chicago 7', se narra la historia real del juicio de siete acusados de conspiración y disturbios durante la Convención Nacional Demócrata de 1968 en Chicago. La película explora los eventos políticos y sociales que llevaron a las protestas y el subsiguiente juicio, destacando las tensiones entre los manifestantes y el gobierno. Con un elenco estelar y un guion contundente, la película ofrece una visión crítica de la justicia y los derechos civiles en Estados Unidos. A medida que el juicio se desarrolla, los personajes deben enfrentar sus propias convicciones y luchar por la verdad en un sistema judicial adverso.",
+              "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqDkfhtW1XSkmMVj5kRyeI09VAy4WCyKExA&s",
+              "foto": "https://www.wsws.org/asset/5d62c462-3b73-4534-90d9-0765f6e29d8b?rendition=image1280",
+              "genero": "Drama"
+            },
+            {
+                "id": 26,
+                "titulo": "Mad Max: Fury Road",
+                "anio": 2015,
+                "descripcion": "Tras la guerra termonuclear que ha convertido a la Tierra en un páramo, el antiguo policía Max Rockatansky, atormentado por los espíritus de aquellos a los que no pudo proteger, se ha convertido en un hombre con un solo instinto: sobrevivir. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a Max.",
+                "portada": "https://moviepostermexico.com/cdn/shop/products/mad_max_fury_road_ver6_xxlg_1024x1024@2x.jpg?v=1595346944",
+                "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0At1j7V0IUjPDDm1OSYzwcT9rH0v1v2VZQ&s",
+                "genero": "Acción"
+            },
+            {
+                "id": 27,
+                "titulo": "Gladiator",
+                "anio": 2000,
+                "descripcion": "El general romano Máximo es el soporte más leal del emperador Marco Aurelio, que lo ha conducido de victoria en victoria. Sin embargo, Cómodo, el hijo de Marco Aurelio, está celoso del prestigio de Máximo y aún más del amor que su padre siente por él. Cuando Cómodo llega al poder ordena el arresto del general y su asesinato. Máximo escapa de sus asesinos, pero no puede evitar la muerte de su familia. Entonces se convierte en gladiador para llevar a cabo su venganza.",
+                "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg",
+                "foto": "https://s.yimg.com/ny/api/res/1.2/_zlCs5XSbf0G1gqqTSf9eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://s.yimg.com/os/creatr-images/2020-05/ff696df0-8ed1-11ea-ae6b-4d39d2bce711",
+                "genero": "Acción"
+            },
+            {
+                "id": 28,
+                "titulo": "Inception",
+                "anio": 2010,
+                "descripcion": "Dom Cobb es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarles los secretos de sus subconscientes. Su habilidad lo ha vuelto muy popular en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb obtiene la oportunidad de redimirse cuando recibe una tarea imposible: plantar una idea en la mente de una persona. Si tiene éxito, será el crimen perfecto, pero un enemigo se anticipa a sus movimientos.",
+                "portada": "https://moviepostermexico.com/cdn/shop/products/inception_ver4_xlg_1024x1024@2x.jpg?v=1574871227",
+                "foto": "https://hips.hearstapps.com/hmg-prod/images/escena-pasillo-origen-1658397957.jpeg",
+                "genero": "Ciencia Ficción"
+            }
+    ]
+}
+
