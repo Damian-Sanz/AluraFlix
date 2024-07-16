@@ -1,0 +1,13 @@
+.selector{
+    all: unset;
+    color: #fff;
+    font-weight: 600;
+    font-size: 22px;
+    text-align: end;
+}
+
+.selector option {
+    padding: 90px;
+    background-color: rgba(0, 0, 0, 0.806);
+    text-align: end;
+}

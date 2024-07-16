@@ -1,0 +1,22 @@
+.containerPie{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black ;
+    padding: 1em 3em;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.redes{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.redes a{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
