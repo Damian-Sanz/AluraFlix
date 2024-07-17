@@ -7,11 +7,11 @@ import Cargando from '../../components/Cargando';
 import { GlobalContext } from '../../Context/GlobalContext';
 
 function Inicio() {
+
     const { state } = useContext(GlobalContext);
     const [showResults, setShowResults] = useState(false);
-    const contenedorPelis = useRef(null); // Inicializa useRef con null
+    const contenedorPelis = useRef(null);
 
-    // Simulación de retardo de 5 segundos
     useEffect(() => {
         const timeoutId = setTimeout(() => {
             setShowResults(true);
@@ -27,22 +27,19 @@ function Inicio() {
                 <section className={styles.tags}>
                     <Tags />
                 </section>
-                {/* Renderización condicional del componente Cargando */}
-                {!showResults && <Cargando />} 
-
-                {/* Renderización condicional de la sección de películas */}
+                {!showResults && <Cargando />}
                 <section className={styles.containerPeliculas} ref={contenedorPelis}>
                     {showResults &&
                         state.peliculas.filter(pelicula => {
                             return state.consulta === '' || pelicula.titulo.toLocaleLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "")
                                 .includes(state.consulta.toLocaleLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, ""))
                         })
-                        .map(pelicula => (
-                            <CardsPeliculas
-                                key={pelicula.id}
-                                pelicula={pelicula}
-                            />
-                        ))
+                            .map(pelicula => (
+                                <CardsPeliculas
+                                    key={pelicula.id}
+                                    pelicula={pelicula}
+                                />
+                            ))
                     }
                 </section>
             </div>

@@ -1,0 +1,27 @@
+.containerForm{
+    z-index: 999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #938bde29;
+    backdrop-filter: blur(7px);
+}
+
+.cerrarForm{
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    width: 30px;
+    cursor: pointer;
+}
+
+.formulario{
+    position: relative;
+    width: 80%;
+    height: 80%;
+    background-color: rgb(70, 70, 70);
+    border-radius: 40px;
+    margin: 5em auto;
+}
