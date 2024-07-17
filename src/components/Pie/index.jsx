@@ -18,13 +18,13 @@ function Pie () {
                     <h2>Damian Sanz</h2>
                     <div className={styles.containerRedes}>
                         <a>
-                            <img src={facebook} alt='Facebook' /> <span>Facebook</span>
+                            <img src={facebook} alt='Facebook' />
                         </a>
                         <a>
-                            <img src={instagram} alt='Instagram' /> <span>Instagram</span>
+                            <img src={instagram} alt='Instagram' />
                         </a>
                         <a>
-                            <img src={tiktok} alt='Tiktok' /> <span>Tiktok</span>
+                            <img src={tiktok} alt='Tiktok' />
                         </a>
                     </div>
                 </div>
